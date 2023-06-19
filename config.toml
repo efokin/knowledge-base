@@ -1,5 +1,6 @@
 baseURL = "https://efokin.github.io/quartz/"
-languageCode = "ru-ru"
+languageCode = "en-us"
+defaultContentLanguage = "ru"
 relativeURLs = false
 disablePathToLower = true
 ignoreFiles = [
