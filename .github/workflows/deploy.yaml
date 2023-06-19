@@ -15,9 +15,7 @@ jobs:
 
       # Update references
       - name: Git Sumbodule Update
-        run: |
-          git pull --recurse-submodules
-          git submodule update --remote --recursive
+        run: git submodule update --init --recursive
 
       - name: Build Link Index
         uses: jackyzha0/hugo-obsidian@v2.20
