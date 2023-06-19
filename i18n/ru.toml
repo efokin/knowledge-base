@@ -1,0 +1,65 @@
+[404_message]
+other = "Эй! Вы возможно потерялись. Этой страници не существует (или эта страница не для публичного доступа)."
+
+[404_back]
+other = "↳ Давай вернем тебя на главную страницу."
+
+[all_posts]
+other = "Все {{.Title}}"
+
+[last_updated]
+other = "Обнавлено"
+
+[notes_count]
+other = "страниц с этим тегом"
+
+[first_10]
+other = "показано 10 первых результатов"
+
+[tag]
+other = "Тэг"
+
+[backlinks]
+other = "Обратные ссылки"
+
+[no_backlinks]
+other = "Обратных ссылок не найдено"
+
+[home]
+other = "Главная страница"
+
+[light_mode]
+other = "Дневной режим"
+
+[dark_mode]
+other = "Ночной режим"
+
+[edit_source]
+other = "Редактировать исходники"
+
+[interactive_graph]
+other = "Интерактивный граф"
+
+[search]
+other = "Поиск"
+
+[search_icon]
+other = "Иконка поиска"
+
+[icon_search]
+other = "Иконка для открытия поиска"
+
+[recent_notes]
+other = "Последние заметки"
+
+[first_3_notes]
+other = "Первые 3 {{ .notes }}"
+
+[search_for_something]
+other = "Ищем..."
+
+[toc]
+other = "Оглавление"
+
+[copyright]
+other = "Создано {{ .name }}"
