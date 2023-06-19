@@ -56,7 +56,7 @@ other = "Последние заметки"
 other = "Первые 3 {{ .notes }}"
 
 [search_for_something]
-other = "Ищем..."
+other = "Набираем что искать..."
 
 [toc]
 other = "Оглавление"
