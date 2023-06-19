@@ -1,0 +1,3 @@
+[submodule "content_tmp"]
+	path = content_tmp
+	url = git@github.com:efokin/constractive-confrontation.git
