@@ -1,4 +1,4 @@
-name: Evgenij Fokin
+name: Евгений Фокин
 enableToc: true
 openToc: false
 enableLinkPreview: true
@@ -18,7 +18,7 @@ search:
   operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
   operandIndexId: "REPLACE-WITH-YOUR-OPERAND-INDEX-ID"
 description:
-  TBD
+  "Моя публичная база знаний"
 page_title:
   "База знаний"
 links:
