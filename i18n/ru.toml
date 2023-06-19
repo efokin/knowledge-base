@@ -62,4 +62,4 @@ other = "Набираем что искать..."
 other = "Оглавление"
 
 [copyright]
-other = "Создано {{ .name }}"
+other = "Автор {{ .name }}"
