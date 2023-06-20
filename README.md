@@ -1,5 +1,7 @@
 # Quartz
 
+[![Deploy to GitHub Pages](https://github.com/efokin/knowledge-base/actions/workflows/deploy.yaml/badge.svg?branch=hugo)](https://github.com/efokin/knowledge-base/actions/workflows/deploy.yaml)
+
 Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
 
 1. Extremely fast natural-language search
